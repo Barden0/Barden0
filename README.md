@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bardensamuel6@gmail.com**
 
-- 📄 Know about my experiences [Works](https://samuelbarden.com/works/)
+- 📄 Know about my experiences [Portfolio](https://samuelbarden.com/works/)
 
 - ⚡ Fun fact **I grasp tech concepts easily**
 
