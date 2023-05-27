@@ -10,15 +10,15 @@
 
 - 👯 I’m looking to collaborate on **AWS architecture design**
 
-- 👨‍💻 All of my projects are available at [samuelbarden.com](samuelbarden.com)
+- 👨‍💻 All of my projects are available at [samuelbarden.com](https://samuelbarden.com)
 
-- 📝 I regularly write articles on [blog.samuelbarden.com](blog.samuelbarden.com)
+- 📝 I regularly write articles on [Cloud With Barden](https://blog.samuelbarden.com)
 
 - 💬 Ask me about **Cloud, AWS, Atlassian, Wordpress and general tech stuff**
 
 - 📫 How to reach me **bardensamuel6@gmail.com**
 
-- 📄 Know about my experiences [samuelbarden.com/works/](samuelbarden.com/works/)
+- 📄 Know about my experiences [Works](https://samuelbarden.com/works/)
 
 - ⚡ Fun fact **I grasp tech concepts easily**
 
