@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://samuelbarden.com/works/)
 
-- ⚡ Fun fact **I grasp tech concepts easily**
+- ⚡ Fun fact **I easily grasp tech concepts**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidonb" alt="vidonb" /></a> </p>
 
