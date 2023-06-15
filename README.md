@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [samuelbarden.com](https://samuelbarden.com)
 
-- 📝 I regularly write articles on [Cloud With Barden](https://blog.samuelbarden.com)
+- 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
 - 💬 Ask me about **Cloud, AWS, Atlassian, Wordpress and general tech stuff**
 
