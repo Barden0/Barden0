@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **solutions architecture**
 
-- 👨‍💻 All of my projects are available at [Samuel Barden](https://samuelbarden.com)
+- 👨‍💻 All of my projects are available at [Samuel Barden](https://samuelbarden.com/works)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://samuelbarden.com/works/)
 
-- ⚡ Fun fact **I easily grasp tech concepts**
+- ⚡ Fun fact **I  tech concepts**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidonb" alt="vidonb" /></a> </p>
 
