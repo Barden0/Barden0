@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **more about AWS multi-tier architecture**
 
-- 👯 I’m looking to collaborate on **solutions architecture**
+- 👯 I’m looking to collaborate on **AWS solutions architecture**
 
 - 👨‍💻 All of my projects are available at [Samuel Barden](https://samuelbarden.com/works)
 
