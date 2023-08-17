@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
 <h3 align="center">I am a Solutions Architect and Atlassian developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidonb&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
 - 🔭 I care deeply about **architecting and building highly resilient, well executed products and scalable architectures with best practices of the cloud that help businesses and make a difference**
