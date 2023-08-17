@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
 <h3 align="center">I am a Solutions Architect and Atlassian developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidonb&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madebygps&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
 - 🔭 I care deeply about **architecting and building highly resilient, well executed products and scalable architectures with best practices of the cloud that help businesses and make a difference**
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **AWS solutions architecture**
 
-- 👨‍💻 All of my projects are available at [Samuel Barden](https://samuelbarden.com/works)
+- 👨‍💻 Some of my projects are available at [Samuel Barden](https://samuelbarden.com/works)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **bardensamuel6@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://samuelbarden.com/works/)
-
-- ⚡ Fun fact **I  tech concepts**
+- ⚡ Fun fact **Jollof all day everyday for me**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barden0" alt="Barden0" /></a> </p>
 
