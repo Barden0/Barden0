@@ -35,31 +35,30 @@
 
 | Technology | Logo |
 |------------|------|
-| [AWS Amplify](https://aws.amazon.com/amplify/) | ![AWS Amplify Logo](https://docs.amplify.aws/assets/logo-dark.svg) |
-| [Amazon Web Services (AWS)](https://aws.amazon.com) | ![AWS Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
-| [Microsoft Azure](https://azure.microsoft.com/en-in/) | ![Azure Logo](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) |
-| [Bash](https://www.gnu.org/software/bash/) | ![Bash Logo](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) |
-| [CSS3](https://www.w3schools.com/css/) | ![CSS3 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) |
-| [Django](https://www.djangoproject.com/) | ![Django Logo](https://cdn.worldvectorlogo.com/logos/django.svg) |
-| [Docker](https://www.docker.com/) | ![Docker Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) |
-| [Firebase](https://firebase.google.com/) | ![Firebase Logo](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) |
-| [Flask](https://flask.palletsprojects.com/) | ![Flask Logo](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg) |
-| [Google Cloud Platform (GCP)](https://cloud.google.com) | ![GCP Logo](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
-| [Git](https://git-scm.com/) | ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
-| [Heroku](https://heroku.com) | ![Heroku Logo](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) |
-| [HTML5](https://www.w3.org/html/) | ![HTML5 Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) |
-| [Hugo](https://gohugo.io/) | ![Hugo Logo](https://api.iconify.design/logos-hugo.svg) |
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | ![JavaScript Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
-| [Jenkins](https://www.jenkins.io) | ![Jenkins Logo](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg) |
-| [Kubernetes](https://kubernetes.io) | ![Kubernetes Logo](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) |
-| [Linux](https://www.linux.org/) | ![Linux Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-| [MySQL](https://www.mysql.com/) | ![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) |
-| [OpenCV](https://opencv.org/) | ![OpenCV Logo](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) |
-| [Adobe Photoshop](https://www.photoshop.com/en) | ![Photoshop Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) |
-| [PHP](https://www.php.net) | ![PHP Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) |
-| [Python](https://www.python.org) | ![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
-| [React](https://reactjs.org/) | ![React Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) |
-
+| [AWS Amplify](https://aws.amazon.com/amplify/) | <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify Logo" width="40" height="40"/> |
+| [Amazon Web Services (AWS)](https://aws.amazon.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="40" height="40"/> |
+| [Microsoft Azure](https://azure.microsoft.com/en-in/) | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logo" width="40" height="40"/> |
+| [Bash](https://www.gnu.org/software/bash/) | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash Logo" width="40" height="40"/> |
+| [CSS3](https://www.w3schools.com/css/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="40" height="40"/> |
+| [Django](https://www.djangoproject.com/) | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Logo" width="40" height="40"/> |
+| [Docker](https://www.docker.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="40" height="40"/> |
+| [Firebase](https://firebase.google.com/) | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase Logo" width="40" height="40"/> |
+| [Flask](https://flask.palletsprojects.com/) | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask Logo" width="40" height="40"/> |
+| [Google Cloud Platform (GCP)](https://cloud.google.com) | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP Logo" width="40" height="40"/> |
+| [Git](https://git-scm.com/) | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git Logo" width="40" height="40"/> |
+| [Heroku](https://heroku.com) | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku Logo" width="40" height="40"/> |
+| [HTML5](https://www.w3.org/html/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"/> |
+| [Hugo](https://gohugo.io/) | <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo Logo" width="40" height="40"/> |
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"/> |
+| [Jenkins](https://www.jenkins.io) | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins Logo" width="40" height="40"/> |
+| [Kubernetes](https://kubernetes.io) | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes Logo" width="40" height="40"/> |
+| [Linux](https://www.linux.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/> |
+| [MySQL](https://www.mysql.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="40" height="40"/> |
+| [OpenCV](https://opencv.org/) | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV Logo" width="40" height="40"/> |
+| [Adobe Photoshop](https://www.photoshop.com/en) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop Logo" width="40" height="40"/> |
+| [PHP](https://www.php.net) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP Logo" width="40" height="40"/> |
+| [Python](https://www.python.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/> |
+| [React](https://reactjs.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="40" height="40"/> |
 
 
 <h3 align="left">Support:</h3>
