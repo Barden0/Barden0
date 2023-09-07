@@ -3,7 +3,7 @@
 
 <p id="typing-text"></p>
 
-<script>
+```<script>
   const text = "Solutions Architect and Atlassian developer!"; //
   let index = 0;
 
@@ -17,7 +17,7 @@
   }
 
   typeText();
-</script>
+</script>```
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
