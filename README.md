@@ -30,6 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 | Technology  | Logo |
 |-------------|------|
 | AWS Amplify | ![AWS Amplify Logo](https://docs.amplify.aws/assets/logo-dark.svg) |
@@ -45,6 +46,7 @@
 | Git | ![Git Logo](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
 | Heroku | ![Heroku Logo](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) |
 
+&nbsp;
 
 | Technology  | Logo |
 |-------------|------|
