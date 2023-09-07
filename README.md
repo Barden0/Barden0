@@ -1,6 +1,25 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
 <h3 align="center">I am a Solutions Architect and Atlassian developer.</h3>
 
+<p id="typing-text"></p>
+
+<script>
+  const text = "Solutions Architect and Atlassian developer!"; //
+  let index = 0;
+
+  function typeText() {
+    document.getElementById("typing-text").textContent += text.charAt(index);
+    index++;
+
+    if (index < text.length) {
+      setTimeout(typeText, 100); // Adjust the typing speed (in milliseconds)
+    }
+  }
+
+  typeText();
+</script>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
