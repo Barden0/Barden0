@@ -1,6 +1,30 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
 <h3 align="center">I am a Solutions Architect and Atlassian developer.</h3>
 
+<!-- Typing text animation -->
+<span id="typing-text">
+  Hello, world!<!-- Add your text here -->
+</span>
+
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  #typing-text {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: typing 2s steps(20, end) infinite;
+  }
+</style>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
