@@ -22,45 +22,20 @@
 - ⚡ Fun fact **Jollof all day everyday for me**
 
 
-## 🏆 GitHub Trophies
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
-
 
 
 ## 🌐 Connect with me:
 [![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
 [![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) <br>
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbarden_)
 
 
-
-<br>
-
-
-
-## Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vidon) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vidon) 
-
-
---------------------------------------------------------------------
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-
-
-
-++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------
 
 # 💻 Tech Stack:
 **Cloud/Hosting:** <br>
@@ -126,6 +101,30 @@
 
 --------------------------------------------------
 
+## Support Me:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vidon) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vidon) 
+
+--------------------------------------------------------------------
+
+![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+
+
+
+
+
+
+
+```
 | Cloud         | Languages     | Tools         | Other         |
 | ------------- | ------------- | ------------- | ------------- |
 | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
@@ -141,5 +140,5 @@
 | | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | | |
 | | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | | |
 | | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | | |
-
+```
 -------------------------------------------------
