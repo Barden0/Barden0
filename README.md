@@ -25,11 +25,10 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
 
 
-## 🌐 Connect with me:
+### Connect with me:
 [![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
 [![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) <br>
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbarden_)
@@ -37,7 +36,7 @@
 
 ----------------------------------------
 
-# 💻 Tech Stack:
+### 💻 My Tech Stack:
 **Cloud/Hosting:** <br>
 <p>
   
