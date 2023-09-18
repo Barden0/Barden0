@@ -27,19 +27,9 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/braakwame_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braakwame_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-barden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-barden" height="30" width="40" /></a>
- 
-<a href="/https://blog.samuelbarden.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.samuelbarden.com/feed" height="30" width="40" /></a>
-</p>
-
-
 ## 🌐 Connect with me:
 [![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
-[![RSS Feed](https://img.shields.io/badge/RSSFeed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)
+[![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)<br>
