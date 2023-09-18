@@ -22,7 +22,7 @@
 - ⚡ Fun fact **Jollof all day everyday for me**
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barden0&row=4&column=4" alt="Barden0" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /></a> </p>
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" />
