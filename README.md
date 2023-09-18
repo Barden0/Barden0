@@ -38,10 +38,11 @@
 
 
 ## 🌐 Connect with me:
-[![Blog](https://img.shields.io/badge/Blog-%230077B5.svg?logo=🌐&logoColor=white)](https://blog.samuelbarden.com/)
+[![Blog](https://img.shields.io/badge/Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
+[![RSS Feed](https://img.shields.io/badge/Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbarden_)
 
 
