@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
-(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=AWS+Solutions+Architect;Atlassian+Developer;Wordpress+Developer)]
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=AWS+Solutions+Architect;Atlassian+Developer;Wordpress+Developer)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
