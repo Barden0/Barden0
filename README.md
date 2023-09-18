@@ -38,7 +38,7 @@
 
 
 ## 🌐 Connect with me:
-[![Blog](https://img.shields.io/badge/CloudingWithBarden-%230077B5.svg?style=for-the-badge&logo=🌐&logoColor=white)](https://blog.samuelbarden.com/)
+[![Blog](https://img.shields.io/badge/Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
 
 [![Blog](https://img.shields.io/badge/CloudingWithBarden-%230077B5.svg?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) 
