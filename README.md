@@ -198,9 +198,7 @@ Column 1 | Column 2 | Column 3 | Column 4
 | Webflow           | ![Webflow Badge](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)  |
 | Framer            | ![Framer Badge](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)   |
 | Notion            | ![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  |
-| Can
-
-va             | ![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  |
+| Canva             | ![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  |
 | Adobe Photoshop   | ![Photoshop Badge](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)   |
 | Gimp              | ![Gimp Badge](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)  |
 
