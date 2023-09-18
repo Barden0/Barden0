@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barden0&row=4&column=4" alt="Barden0" /></a> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=barden0&row=4&column=4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4)
 
 
 
