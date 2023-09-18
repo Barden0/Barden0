@@ -37,8 +37,6 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
   <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=6" alt="GitHub Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=7" alt="GitHub Trophy" />
 </div>
 
 
