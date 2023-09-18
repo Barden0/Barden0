@@ -61,7 +61,6 @@
 
 
 <br>
-<h3 align="left">Support:</h3>
 
 
 ## Support Me:
