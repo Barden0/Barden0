@@ -64,7 +64,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Barden0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barden0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barden0&" alt="Barden0" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Barden0&theme=vue-dark&hide_border=true" alt="Barden0" /></p
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barden0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Barden0" /></p
