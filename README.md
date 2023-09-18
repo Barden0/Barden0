@@ -80,15 +80,10 @@
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Barden0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barden0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Barden0&theme=vue-dark&hide_border=true" alt="Barden0" /></p
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barden0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Barden0" /></p
-
-
 ![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
