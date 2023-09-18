@@ -27,17 +27,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=1" alt="GitHub Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=2" alt="GitHub Trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophy" />
-</div>
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
-</div>
-
+<img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophy" />
 
 
 
