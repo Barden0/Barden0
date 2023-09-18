@@ -26,11 +26,10 @@
 
 
 ### Connect with me:
-[![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/)  
-[![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) <br>
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_)   
+[![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/) 
+[![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed) <br> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) <br>  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbarden_)
 
@@ -39,7 +38,7 @@
 
 ## My Tech Stack:
 
-**Cloud/Hosting:** <br>
+**Cloud:** <br>
 <p>
   
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -51,7 +50,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
-</p>
+</p>  
+
 
 **Languages:** <br>
 <p>
@@ -70,7 +70,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
   
-</p>
+</p>   
+
 
 **Tools:** <br>
 <p>
@@ -82,7 +83,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 
-</p>
+</p>  
+
 
 **Other:** <br>
 <p>
