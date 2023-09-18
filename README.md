@@ -25,7 +25,39 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barden0&row=4&column=4" alt="Barden0" /></a> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4)
+![](https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=2" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=3" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=5" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=6" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=8" alt="GitHub Trophy" />
+    </td>
+  </tr>
+</table>
 
 
 
