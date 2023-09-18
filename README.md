@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact **Jollof all day everyday for me**
 
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barden0" alt="Barden0" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Barden0&row=4&column=4" alt="Barden0" /></a> </p>
@@ -37,6 +38,8 @@
 <a href="/https://blog.samuelbarden.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.samuelbarden.com/feed" height="30" width="40" /></a>
 </p>
 
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 | Technology  | Logo  | Technology  | Logo  |
