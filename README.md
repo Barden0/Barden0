@@ -59,8 +59,9 @@
 
 
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vidon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vidon" /></a><a href="https://ko-fi.com/vidon"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vidon" /></a></p><br><br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Barden0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Barden0" /></p>
 
