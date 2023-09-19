@@ -9,7 +9,7 @@
 
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on **AWS solutions architecture**
 
-- 👨‍💻 View some of my projects at [Projects](https://samuelbarden.com/projects)
+- 🔍 View some of my projects at [Projects](https://samuelbarden.com/projects)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
@@ -19,7 +19,7 @@
 
 - 📫 Email me via **sam@samuelbarden.com**
 
-- ⚡ Fun fact **Jollof all day everyday for me**
+- 😎 Just know **Jollof all day everyday for me**
 
 <br>
 
