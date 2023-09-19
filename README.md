@@ -26,8 +26,8 @@
 
 
 ### Connect with me:
-[![Blog](https://img.shields.io/badge/My-Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/) &nbsp;
-[![RSS Feed](https://img.shields.io/badge/RSS-Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed) &nbsp;
+[![My Blog](https://img.shields.io/badge/My%20Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/) &nbsp;
+[![RSS Feed](https://img.shields.io/badge/RSS%20Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) &nbsp;
 <br>
 
@@ -84,7 +84,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-%232C5263.svg?style=for-the-badge&logo=GitHubActions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232C5263.svg?style=for-the-badge&logo=GitHub+Actions&logoColor=white)
 
 </p>  
 
