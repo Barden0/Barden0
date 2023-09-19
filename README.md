@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **AWS solutions architecture**
 
-- 👨‍💻 Some of my projects are available at [Samuel Barden](https://samuelbarden.com/works)
+- 👨‍💻 Some of my projects are available at [Projects](https://samuelbarden.com/projects)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
-- 💬 Ask me about **Cloud, AWS, Atlassian, Wordpress and general tech stuff**
+- 💬 Ask me about **AWS, Atlassian, Wordpress and general cloud stuff**
 
-- 📫 How to reach me **bardensamuel6@gmail.com**
+- 📫 How to reach me **sam@samuelbarden.com**
 
 - ⚡ Fun fact **Jollof all day everyday for me**
 
