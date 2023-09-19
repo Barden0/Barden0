@@ -7,13 +7,13 @@
 
 - 🔭 I care deeply about **architecting and building highly resilient, well executed products and scalable architectures with best practices of the cloud that help businesses and make a difference**
 
-- 🌱 I’m currently learning **more about AWS multi-tier architecture**
-
 - 👯 I’m looking to collaborate on **AWS solutions architecture**
 
 - 👨‍💻 Some of my projects are available at [Projects](https://samuelbarden.com/projects)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
+
+- 🗞 Subscribe to my [newsletter](https://blog.samuelbarden.com/newsletter)
 
 - 💬 Ask me about **AWS, Atlassian, Wordpress and general cloud stuff**
 
