@@ -7,9 +7,9 @@
 
 - 🔭 I care deeply about **architecting and building highly resilient, well executed products and scalable architectures with best practices of the cloud that help businesses and make a difference**
 
-- 👯 I’m looking to collaborate on **AWS solutions architecture**
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on **AWS solutions architecture**
 
-- 👨‍💻 Some of my projects are available at [Projects](https://samuelbarden.com/projects)
+- 👨‍💻 View some of my projects at [Projects](https://samuelbarden.com/projects)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
@@ -17,10 +17,11 @@
 
 - 💬 Ask me about **AWS, Atlassian, Wordpress and general cloud stuff**
 
-- 📫 How to reach me **sam@samuelbarden.com**
+- 📫 Email me via **sam@samuelbarden.com**
 
 - ⚡ Fun fact **Jollof all day everyday for me**
 
+<br>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
 
