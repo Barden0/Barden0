@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1>
 
+<h1 align="center">Hello 👋🏿, I'm Samuel</h1> <img src="https://github.com/Barden0/Image/blob/main/2sure.gif" />
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=An+AWS+Solutions+Architect;An+Atlassian+Developer;A+Technical+Writer" alt="Samuel-Barden" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
