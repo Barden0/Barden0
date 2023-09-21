@@ -1,6 +1,4 @@
-<h1 align="center">Hello 👋🏿, I'm Samuel</h1>
-
-<h1 align="center">Hello 👋<img src="https://github.com/Barden0/Image/blob/main/wave.gif" />, I'm Samuel</h1> 
+<h1 align="center">Hello 👋🏿, I'm Samuel</h1> 
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=An+AWS+Solutions+Architect;An+Atlassian+Developer;A+Technical+Writer" alt="Samuel-Barden" /> </p>
 
