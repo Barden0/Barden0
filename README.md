@@ -34,9 +34,9 @@
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-006400?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbarden_) &nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbarden_) &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cloudingwithbarden) &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sbarden_) &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sbarden_) &nbsp;
 
 
 ----------------------------------------
