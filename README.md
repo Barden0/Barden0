@@ -34,17 +34,15 @@
 [![RSS Feed](https://img.shields.io/badge/RSS%20Feed-006400?style=for-the-badge&logo=rss&logoColor=white)](https://blog.samuelbarden.com/feed) &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) &nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-4353FF?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) &nbsp;
 <br>
 #
 #9370DB
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) &nbsp;
-[![My Blog](https://img.shields.io/badge/My%20Blog-4353FF?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/) &nbsp;
+[![Twitter](https://img.shields.io/badge/RSS%20Feed-006400?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbarden_) &nbsp;
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cloudingwithbarden) &nbsp;
-![WordPress](https://img.shields.io/badge/WordPress-FF0000?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;
+[![YouTube](https://img.shields.io/badge/RSS%20Feed-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cloudingwithbarden) &nbsp;
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sbarden_)
 ![WordPress](https://img.shields.io/badge/WordPress-E4405F?style=for-the-badge&logo=instagram&logoColor=white) &nbsp;
