@@ -29,8 +29,14 @@
 
 ### Connect with me:
 [![My Blog](https://img.shields.io/badge/My%20Blog-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/) &nbsp;
+[![My Blog](https://img.shields.io/badge/My%20Blog-4353FF?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/) &nbsp;
+
 [![RSS Feed](https://img.shields.io/badge/RSS%20Feed-%230077B5.svg?logo=globe&logoColor=white)](https://blog.samuelbarden.com/feed) &nbsp;
+[![RSS Feed](https://img.shields.io/badge/RSS%20Feed-4353FF?style=for-the-badge&logo=rss&logoColor=white)](https://blog.samuelbarden.com/feed) &nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) &nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-4353FF?style=for-the-badge&logo=wordpress&logoColor=white) &nbsp;
+
 <br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbarden_) &nbsp;
