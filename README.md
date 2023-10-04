@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true)<br/>
-
 
 - 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make a difference**
 
