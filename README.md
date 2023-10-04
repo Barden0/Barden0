@@ -116,7 +116,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true) < alt="Barden0 br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=barden0&theme=vue-dark&hide_border=true) <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
