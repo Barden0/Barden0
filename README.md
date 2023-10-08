@@ -22,6 +22,7 @@
 - 😎 Just know **Jollof all day everyday for me**
 
 <br>
+--------------------------------------------------
 
 ### Connect with me:
 [![My Blog](https://img.shields.io/badge/My%20Blog-FFD554?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
