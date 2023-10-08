@@ -21,11 +21,6 @@
 
 - 😎 Just know **Jollof all day everyday for me**
 
-<br>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
-
-
 
 ### Connect with me:
 [![My Blog](https://img.shields.io/badge/My%20Blog-FFD554?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
@@ -113,6 +108,9 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vidon) 
 
 --------------------------------------------------------------------
+<br>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
