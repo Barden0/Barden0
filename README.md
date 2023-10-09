@@ -25,7 +25,7 @@
 ----------------------------------------
 
 ### Connect with me:
-[![My Blog](https://img.shields.io/badge/My%20Blog-FFD554?style=for-the-badge&logo=globe&logoColor=white)](https://blog.samuelbarden.com/)
+[![My Blog](https://img.shields.io/badge/My%20Blog-FFD554?style=for-the-badge&logo=website&logoColor=white)](https://blog.samuelbarden.com/)
 [![RSS Feed](https://img.shields.io/badge/RSS%20Feed-006400?style=for-the-badge&logo=rss&logoColor=white)](https://blog.samuelbarden.com/feed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-barden) <br>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sbarden_)
