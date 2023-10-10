@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
-- 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make a difference**
+- 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make adifference**
 
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on **AWS solutions architecture**
 
