@@ -82,6 +82,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232C5263.svg?style=for-the-badge&logo=GitHub+Actions&logoColor=white)
+![Scriptrunner](https://img.shields.io/badge/Scriptrunner-%235835CC.svg?style=for-the-badge&logo=scriptrunner&logoColor=white)
 
 </p>  
 
