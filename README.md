@@ -105,7 +105,7 @@
 
 --------------------------------------------------
 
-## Support Me:
+## Support CWB:
 [![Support CWB](https://img.shields.io/badge/Support%20CWB-ffdd00?style=for-the-badge&logo=paystack&logoColor=black)](https://paystack.com/pay/clouding)
 
 --------------------------------------------------------------------
