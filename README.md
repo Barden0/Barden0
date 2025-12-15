@@ -7,7 +7,7 @@
 
 - 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make a difference**
 
-- 🫱🏽‍🫲🏾 I’m looking to collaborate on **Solutions Architecture** & **Atlassian Development**
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on **Cloud Solutions Architecture** & **Atlassian Development**
 
 - 👁️ View some of my projects at [Projects](https://samuelbarden.com/projects)
 
