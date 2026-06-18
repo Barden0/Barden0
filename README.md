@@ -7,17 +7,17 @@
 
 - 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make a difference**
 
-- 🫱🏽‍🫲🏾 I’m looking to collaborate on **Cloud Solutions Architecture** & **Atlassian Development**
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on **Cloud & DevOps** and **Atlassian Platforms Development**
 
-- 👁️ View some of my projects at [Projects](https://samuelbarden.com/projects)
+- 👁️ View some of my projects at [Projects](https://samuelbarden.com/work.html)
 
 - 📝 I regularly write articles on [Clouding With Barden](https://blog.samuelbarden.com)
 
 - 🗞 Subscribe to my [newsletter](https://blog.samuelbarden.com/newsletter)
 
-- 💬 Ask me about **AWS, Atlassian, Wordpress and general cloud stuff**
+- 💬 Ask me about **Cloud, Atlassian and DevOps**
 
-- 📫 Email me via **sam@samuelbarden.com**
+- 📫 Email me via [**sam@samuelbarden.com**](mailto:sam@samuelbarden.com)
 
 
 ----------------------------------------
