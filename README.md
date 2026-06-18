@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋🏿, I'm Samuel</h1> 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=An+AWS+Solutions+Architect;An+Atlassian+Champion;A+Technical+Writer" alt="Samuel-Barden" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+Cloud+Architect;An+Atlassian+Champion;A+DevOps+Engineer" alt="Samuel-Barden" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barden0&label=Profile%20views&color=0e75b6&style=flat" alt="Barden0" /> </p>
 
 
-- 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable products and systems that help businesses and make a difference**
+- 👨🏿‍💻 I am passionate about **architecting and building highly resilient and scalable systems that help businesses and make a difference**
 
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on **Cloud & DevOps** and **Atlassian Platforms Development**
 
@@ -42,7 +42,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Atlassian](https://img.shields.io/badge/Atlassian-%23172BF4.svg?style=for-the-badge&logo=atlassian&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </p>  
@@ -55,14 +54,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 </p>   
 
