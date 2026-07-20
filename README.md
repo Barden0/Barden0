@@ -107,6 +107,8 @@
 --------------------------------------------------------------------
 <br>
 
+![Top Languages](./profile/top-langs.svg)
+
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Barden0&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=4&column=4" alt="GitHub Trophy" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=barden0&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
